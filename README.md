@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jacky
+- 👀 I’m interested in video games, art and coding
+- 🌱 I’m currently learning to properly code with python
